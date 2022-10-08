@@ -1,2 +1,4 @@
-# kinerys-scripts
-stuff kinery sent in the rowblox development for old roblox clients and other shit lmfao
+# lua scripts
+kinery gave us some stuff in the Rowblox staff server and its for old roblox revivals and stuff lol
+
+thanks kinery
